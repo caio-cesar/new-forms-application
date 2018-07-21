@@ -8,5 +8,6 @@ public class NewFormsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(NewFormsApplication.class, args);
+		
 	}
 }
